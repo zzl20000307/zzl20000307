@@ -6,3 +6,5 @@
 ----
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzl20000307&show_icons=true&theme=transparent&hide=prs)
 ----
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FHaofeiMa&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/HaofeiMa)
+![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fzll20000307&query=stars&suffix=%20stars&logo=Github&label=Github)
