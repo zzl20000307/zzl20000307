@@ -1,4 +1,4 @@
-### Hi,I'm ZZl 👋
+### Hi,I'm zzl 👋
 - 🔭 I'm currently pursuing a master's degree at Southern University of Science and Technology
 - 🌱 I'm currently learning C++data structures and algorithms
 - 📫 My E-mail:[zzl1910885757@163.com](mailto:zzl1910885757@163.com)
