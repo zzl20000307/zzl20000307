@@ -1,6 +1,6 @@
 ### Hi,I'm zzl 👋
 <div align="center">
-  [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fzll20000307&query=stars&suffix=%20stars&logo=Github&label=Github)]
+  [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fzll20000307&query=stars&suffix=%20stars&logo=Github&label=Github)](https://github.com/zzl20000307)
 </div>
 - 🔭 I'm currently pursuing a master's degree at Southern University of Science and Technology
 - 🌱 I'm currently learning C++data structures and algorithms
